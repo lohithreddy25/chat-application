@@ -4,7 +4,7 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Backend:
 - **Node.js** with **Express.js**
@@ -24,9 +24,9 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👤 User Functionality:
+###  User Functionality:
 - Secure signup & login using JWT
 - Real-time one-to-one messaging
 - User search and chat initiation
@@ -35,7 +35,7 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 - Message timestamps and read indicators
 - Toast-based notifications for new messages
 
-### 🧰 Developer Features:
+###  Developer Features:
 - Clean API architecture using Express Router
 - Efficient message & user schema modeling with Mongoose
 - Modular backend with reusable middleware (auth, error handling)
@@ -43,7 +43,7 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Module       | Endpoint                      | Access Level   |
 |--------------|-------------------------------|----------------|
@@ -54,14 +54,14 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 
 
 
-## ⚙️ Local Setup
+##  Local Setup
 
-### 🖥️ Requirements:
+###  Requirements:
 - Node.js v16+
 - MongoDB (local or Atlas)
 - npm or yarn
 
-### 🛠️ Steps:
+###  Steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/mern-chat-app.git
