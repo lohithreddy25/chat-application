@@ -52,21 +52,7 @@ This is a real-time chat application built with the **MERN (MongoDB, Express.js,
 | Chats        | `/api/chats/`, `/create`      | Authenticated  |
 | Messages     | `/api/messages/`, `/send`     | Authenticated  |
 
-> All endpoints are protected using JWT except for authentication routes.
 
----
-
-## 🧪 Test Credentials
-
-- **User 1**
-  - Email: `user1@example.com`
-  - Password: `password123`
-
-- **User 2**
-  - Email: `user2@example.com`
-  - Password: `password123`
-
----
 
 ## ⚙️ Local Setup
 
