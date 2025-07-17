@@ -1,4 +1,4 @@
-# 💬 MERN Stack Chat Application
+# MERN Stack Chat Application
 
 This is a real-time chat application built with the **MERN (MongoDB, Express.js, React, Node.js)** stack. It features secure user authentication, real-time messaging using **Socket.IO**, and a modern, responsive frontend interface.
 
